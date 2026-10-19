@@ -44,3 +44,5 @@ the course report deadlines.
 ## Reference
 
 Vanderelst D, Peremans H. How swarming bats can use the collective soundscape for obstacle avoidance. *PLoS Comput Biol.* 2025;21(5):e1013013. https://doi.org/10.1371/journal.pcbi.1013013
+
+Vanderelst, D. F. (2025, March 26). How swarming bats can use the collective soundscape for obstacle avoidance. https://doi.org/10.17605/OSF.IO/QSM8C
