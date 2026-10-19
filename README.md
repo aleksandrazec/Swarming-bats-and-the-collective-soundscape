@@ -26,6 +26,21 @@ We will recreate the agent-based model of Vanderelst & Peremans (2025), in which
 - **How we will extend it:** the paper shows that its bats spread out more than real bats and have no way of staying together. We will add a simple rule that keeps the group together (for example, a tendency to follow nearby neighbours) and study how this changes collisions and how quickly the group gets out. We will also test how sensitive the results are to the main settings, such as group size, density and flight speed.
 - **Tools:** Python, with the code and results kept in this repository so everything can be reproduced.
 
+## Project Plan
+
+Our project is divided into three stages, corresponding to
+the course report deadlines.
+
+- [Milestone 1 – First Report](https://github.com/aleksandrazec/Swarming-bats-and-the-collective-soundscape/milestone/1):
+  Research the selected model and implement an initial simulation.
+
+- [Milestone 2 – Second Report](https://github.com/aleksandrazec/Swarming-bats-and-the-collective-soundscape/milestone/2):
+  Extend the model and conduct experiments.
+
+- [Milestone 3 – Final Report](https://github.com/aleksandrazec/Swarming-bats-and-the-collective-soundscape/milestone/3):
+  Analyse results, finalize the implementation, and prepare
+  the final report.
+
 ## Reference
 
 Vanderelst D, Peremans H. How swarming bats can use the collective soundscape for obstacle avoidance. *PLoS Comput Biol.* 2025;21(5):e1013013. https://doi.org/10.1371/journal.pcbi.1013013
