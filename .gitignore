@@ -1,0 +1,20 @@
+# Python virtual environments
+.venv/
+venv/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+
+# Simulation results and generated outputs
+code/results/
+code/output/
+code/tables/
+
+# Generated arena images
+code/arenas/*.png
+code/arenas/**/*.png
+
+# Local editor settings
+.vscode/
+.idea/
