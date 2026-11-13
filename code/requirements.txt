@@ -1,0 +1,13 @@
+numpy==1.26.4
+scipy==1.14.1
+pandas==2.2.2
+matplotlib==3.8.4
+scikit-image==0.24.0
+scikit-learn==1.5.2
+shapely==2.0.4
+CairoSVG==2.7.1
+acoustics==0.2.6
+transforms3d==0.4.2
+basemap==1.4.1
+natsort==8.4.0
+easygui==0.98.3
